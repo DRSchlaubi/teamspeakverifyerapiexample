@@ -1,0 +1,8 @@
+name: TS3APIExample
+author: Schlaubi
+version: 1.0
+depend: [TeamspeakVerifyer]
+main: net.schlaubi.ts3apiexample.spigot.Main
+commands:
+  ts:
+    description: Test commands
